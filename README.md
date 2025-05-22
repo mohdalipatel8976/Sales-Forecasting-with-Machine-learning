@@ -1,4 +1,3 @@
-```markdown
 # 📈 Sales Forecasting with Machine Learning
 
 This project presents a machine learning approach to forecast future sales using historical sales data. Implemented in Python using a Jupyter Notebook, it features data preprocessing, model training, prediction, and visualization to help businesses make data-driven decisions.
