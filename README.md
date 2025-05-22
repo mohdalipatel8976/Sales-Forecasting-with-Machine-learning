@@ -103,5 +103,3 @@ This project is licensed under the [GNU License](LICENSE).
 Feel free to connect for questions.
 
 ```
-
----
